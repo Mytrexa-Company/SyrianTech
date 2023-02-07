@@ -63,7 +63,7 @@ a.active,a:hover{
 #check{
     display: none;
 }
-@media (max-width: 885px){
+@media (max-width: 1100px){
     label.logo{
         font-size: 30px;
         padding-left: 50px;
@@ -74,7 +74,7 @@ a.active,a:hover{
     
 }
 
-@media (max-width: 733px){
+@media (max-width: 833px){
     .checkbtn{
         display: block;
         margin-right: 40px;

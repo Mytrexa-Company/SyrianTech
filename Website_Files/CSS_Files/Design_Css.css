@@ -343,7 +343,7 @@ section{
     }
   }
   
-  @media screen and (max-width:868px) {
+  @media screen and (max-width:768px) {
     .service-box{
       max-width: 50%;
     }
